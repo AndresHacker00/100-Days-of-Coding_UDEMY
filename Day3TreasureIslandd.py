@@ -55,7 +55,7 @@ if answer:
 
 
 else: 
-    print("You have fallen on a big ass hole")
+    print("You have fallen on a big hole")
 
 
 
